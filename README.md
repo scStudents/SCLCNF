@@ -7,20 +7,20 @@
 ## # Rare cell discovery methods and codes
 | Year | Title                                                        | Paper    |Code    |
 | ---- | ------------------------------------------------------------ | -------- | -------- |
-| 2024 | MarsGT: Multi-omics analysis for rare population inference using single-cell graph transformer | [paper](https://www.nature.com/articles/s41467-023-44570-8)|
-| 2024 | Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations                         | [paper](https://academic.oup.com/bib/article/24/6/bbad335/7283019?searchresult=1)|
-| 2024 | scNovel: a scalable deep learning-based network for novel rare cell discovery in single-cell transcriptomics  |[paper](https://doi.org/10.1093/bib/bbae112) |
-| 2024 | scCross: efficient search for rare subpopulations across multiple single-cell samples | [paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae371/7695870) |
-| 2023 | CAKE: a flexible self-supervised framework for enhancing cell visualization, clustering and rare cell identification| [paper](https://doi.org/10.1093/bib/bbad475) |
-| 2023| Sub-Cluster Identification through Semi-Supervised Optimization of Rare-Cell Silhouettes (SCISSORS) in single-cell RNA-sequencing                            | [paper](https://doi.org/10.1093/bioinformatics/btad449)        |
-| 2023 | Rarity: discovering rare cell populations from single-cell imaging data | [paper](https://doi.org/10.1093/bioinformatics/btad750)|
-| 2023 | A scalable unsupervised learning of scRNAseq data detects rare cells through integration of structure-preserving embedding, clustering and outlier detection | [paper](https://doi.org/10.1093/bib/bbad125)|
-| 2023 | scMMT: a multi-use deep learning approach for cell annotation, protein prediction and embedding in single-cell RNA-seq data |[paper](https://academic.oup.com/bib/article/25/2/bbad523/7595618?searchresult=1#438455760)|
-| 2023 | A multi-view latent variable model reveals cellular heterogeneity in complex tissues for paired multimodal single-cell data|[paper](https://doi.org/10.1093/bioinformatics/btad005)|
-| 2022 | Learning discriminative and structural samples for rare cell types with deep generative model  | [paper](https://doi.org/10.1093/bib/bbac317) |
-| 2021 | MicroCellClust: mining rare and highly specific subpopulations from single-cell expression data  | [paper](https://doi.org/10.1093/bioinformatics/btab239) |
-| 2021 | Bayesian information sharing enhances detection of regulatory associations in rare cell types  | [paper](https://doi.org/10.1093/bioinformatics/btab269) |
-| 2020 | GiniClust3: a fast and memory-efficient tool for rare cell type identification| [paper](https://link.springer.com/article/10.1186/s12859-020-3482-1) |
+| 2024 | MarsGT: Multi-omics analysis for rare population inference using single-cell graph transformer | [paper](https://www.nature.com/articles/s41467-023-44570-8)|[code](https://github.com/alexw16/sharenet) 
+| 2024 | Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations                         | [paper](https://academic.oup.com/bib/article/24/6/bbad335/7283019?searchresult=1)|[code](https://github.com/shaoqiangzhang/DeepScena) 
+| 2024 | scNovel: a scalable deep learning-based network for novel rare cell discovery in single-cell transcriptomics  |[paper](https://doi.org/10.1093/bib/bbae112) |[code](https://github.com/chuanyang-Zheng/scNovel) 
+| 2024 | scCross: efficient search for rare subpopulations across multiple single-cell samples | [paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae371/7695870) |[code](https://github.com/agerniers/scCross/)
+| 2023 | CAKE: a flexible self-supervised framework for enhancing cell visualization, clustering and rare cell identification| [paper](https://doi.org/10.1093/bib/bbad475) |[code](https://github.com/CSUBioGroup/CAKE) 
+| 2023| Sub-Cluster Identification through Semi-Supervised Optimization of Rare-Cell Silhouettes (SCISSORS) in single-cell RNA-sequencing                            | [paper](https://doi.org/10.1093/bioinformatics/btad449)        |[code](https://github.com/jr-leary7/SCISSORS) 
+| 2023 | Rarity: discovering rare cell populations from single-cell imaging data | [paper](https://doi.org/10.1093/bioinformatics/btad750)|[code](https://github.com/kasparmartens/rarity) 
+| 2023 | A scalable unsupervised learning of scRNAseq data detects rare cells through integration of structure-preserving embedding, clustering and outlier detection | [paper](https://doi.org/10.1093/bib/bbad125)|[code](https://github.com/scrab017/RarPG) 
+| 2023 | scMMT: a multi-use deep learning approach for cell annotation, protein prediction and embedding in single-cell RNA-seq data |[paper](https://academic.oup.com/bib/article/25/2/bbad523/7595618?searchresult=1#438455760)|[code](https://github.com/SongqiZhou/scMMT) 
+| 2023 | A multi-view latent variable model reveals cellular heterogeneity in complex tissues for paired multimodal single-cell data|[paper](https://doi.org/10.1093/bioinformatics/btad005)|[code](https://github.com/jhu99/scbean) 
+| 2022 | Learning discriminative and structural samples for rare cell types with deep generative model  | [paper](https://doi.org/10.1093/bib/bbac317) |[code](https://github.com/xkmaxidian/scLDS2) 
+| 2021 | MicroCellClust: mining rare and highly specific subpopulations from single-cell expression data  | [paper](https://doi.org/10.1093/bioinformatics/btab239) |[code](https://github.com/agerniers/MicroCellClust) 
+| 2021 | Bayesian information sharing enhances detection of regulatory associations in rare cell types  | [paper](https://doi.org/10.1093/bioinformatics/btab269) |[code](https://github.com/alexw16/sharenet) 
+| 2020 | GiniClust3: a fast and memory-efficient tool for rare cell type identification| [paper](https://link.springer.com/article/10.1186/s12859-020-3482-1) |[code](https://github.com/rdong08/GiniClust3) 
 | 2020 | Revealing Dynamics of Gene Expression Variability in Cell State Space |[paper](https://www.nature.com/articles/s41592-019-0632-3)|[code](https://github.com/dgrun/RaceID3_StemID2_package) 
 | 2019 | CellSIUS provides sensitive and specific detection of rare cell populations from complex single-cell RNA-seq data| [paper](https://link.springer.com/article/10.1186/s13059-019-1739-7)|[code](https://github.com/Novartis/CellSIUS) 
 | 2018| Discovery of rare cells from voluminous single cell expression data| [paper](https://www.nature.com/articles/s41467-018-07234-6)        |[code](https://github.com/princethewinner/FiRE) 
