@@ -8,7 +8,6 @@
 | Year | Title                                                        | Paper    |Code    |
 | ---- | ------------------------------------------------------------ | -------- | -------- |
 | 2024 | Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations                         | [paper](https://academic.oup.com/bib/article/24/6/bbad335/7283019?searchresult=1)|[Code](https://github.com/shaoqiangzhang/DeepScena)
-| 2024 | scSID: A lightweight algorithm for identifying rare cell types by capturing differential expression from single-cell sequencing data  | [paper](https://www.sciencedirect.com/science/article/pii/S2001037023005184)|[Code](https://github.com/lgmzfl/scSID)
 | 2023 | CAKE: a flexible self-supervised framework for enhancing cell visualization, clustering and rare cell identification| [paper](https://doi.org/10.1093/bib/bbad475) |[code](https://github.com/CSUBioGroup/CAKE)
 | 2022 | Learning discriminative and structural samples for rare cell types with deep generative model | [paper](https://academic.oup.com/bib/article/23/5/bbac317/6652812?login=false)|[code](https://github.com/xkmaxidian/scLDS2)  
 | 2020 | Revealing Dynamics of Gene Expression Variability in Cell State Space |[paper](https://www.nature.com/articles/s41592-019-0632-3)|[code](https://github.com/dgrun/RaceID3_StemID2_package) 
