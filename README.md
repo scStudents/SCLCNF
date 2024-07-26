@@ -58,3 +58,6 @@ result=SCLCNF(data_name = ExprM.RawCounts)
 result$rare_cell_indices
 
 ```
+
+## contact
+zhangyulin@sdust.edu.cn
