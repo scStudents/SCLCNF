@@ -1,6 +1,7 @@
 # SCLCNF1
 ## Follow-up work will be added in the future
-
+## contact
+If you have any questions, please contact me z22070033@s.upc.edu.cn
 ## Data
 ### Data could find at  https://support.10xgenomics.com/single-cell-gene-expression/datasets and https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151658
 
@@ -59,5 +60,4 @@ result$rare_cell_indices
 
 ```
 
-## contact
-zhangyulin@sdust.edu.cn
+
